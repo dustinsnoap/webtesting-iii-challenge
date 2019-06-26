@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`display renders 1`] = `
+<body>
+  <div>
+    <div
+      class="display panel"
+    >
+      <div
+        class="led green-led"
+        data-testid="locked-panel"
+      >
+        Unlocked
+      </div>
+      <div
+        class="led green-led"
+        data-testid="closed-panel"
+      >
+        Open
+      </div>
+    </div>
+  </div>
+</body>
+`;
